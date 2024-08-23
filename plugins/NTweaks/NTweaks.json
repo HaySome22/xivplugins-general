@@ -1,0 +1,16 @@
+{
+  "Author": "Nitian",
+  "Name": "NTweaks",
+  "InternalName": "NTweaks",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "NTweaks",
+  "ApplicableVersion": "any",
+  "Tags": [],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "NTweaks",
+  "AcceptsFeedback": true
+}
