@@ -10,13 +10,13 @@
         "Tags": [],
         "DalamudApiLevel": 10,
         "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/NTweaks/latest.zip",
+        "DownloadLinkInstall": "https://github.com/HaySome22/xivplugins/raw/main/plugins/NTweaks/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/NTweaks/images/icon.png",
-        "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/NTweaks/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/NTweaks/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/HaySome22/xivplugins/main/plugins/NTweaks/images/icon.png",
+        "DownloadLinkTesting": "https://github.com/HaySome22/xivplugins/raw/main/plugins/NTweaks/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/HaySome22/xivplugins/raw/main/plugins/NTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1724447802"
+        "LastUpdate": "1724448019"
     }
 ]
