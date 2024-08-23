@@ -21,3 +21,5 @@ jobs:
           author_name: GitHub Action
           author_email: github-actions[bot]@users.noreply.github.com
           message: Regenerate PluginMaster
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
