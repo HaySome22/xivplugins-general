@@ -5,7 +5,7 @@
         "Punchline": "NTweaks",
         "Description": "NTweaks",
         "InternalName": "NTweaks",
-        "AssemblyVersion": "0.0.0.4",
+        "AssemblyVersion": "0.0.0.5",
         "ApplicableVersion": "any",
         "Tags": [],
         "DalamudApiLevel": 10,
@@ -17,6 +17,6 @@
         "DownloadLinkTesting": "https://github.com/HaySome22/xivplugins/raw/main/plugins/NTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/HaySome22/xivplugins/raw/main/plugins/NTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1724567378"
+        "LastUpdate": "1724633711"
     }
 ]
