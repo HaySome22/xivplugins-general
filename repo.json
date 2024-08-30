@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/HaySome22/xivplugins/raw/main/plugins/NTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/HaySome22/xivplugins/raw/main/plugins/NTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1724992427"
+        "LastUpdate": "1724992515"
     },
     {
         "Author": "Marconsou",
@@ -25,7 +25,7 @@
         "Punchline": "Visually tracks MP regeneration ticks (Black Mage only).",
         "Description": "-Fast Fire III marker on the bar.\n-Autostarts the bar before combat starts.\n-Countdown with time offset.\n-Compatible with FFXIV Material UI.",
         "InternalName": "MPTickBar",
-        "AssemblyVersion": "1.5.0.0",
+        "AssemblyVersion": "1.5.0.1",
         "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
         "ApplicableVersion": "any",
         "Tags": [
@@ -45,6 +45,6 @@
         "DownloadLinkTesting": "https://github.com/HaySome22/xivplugins/raw/main/plugins/MPTickBar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/HaySome22/xivplugins/raw/main/plugins/MPTickBar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1724992427"
+        "LastUpdate": "1724992515"
     }
 ]
