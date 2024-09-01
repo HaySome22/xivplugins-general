@@ -17,14 +17,14 @@
         "DownloadLinkTesting": "https://github.com/HaySome22/xivplugins/raw/main/plugins/NTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/HaySome22/xivplugins/raw/main/plugins/NTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1725171139"
+        "LastUpdate": "1725172600"
     },
     {
         "Author": "Marconsou",
-        "Name": "MP Tick Bar",
+        "Name": "MP Tick Bar DT",
         "Punchline": "Visually tracks MP regeneration ticks (Black Mage only).",
         "Description": "-Fast Fire III marker on the bar.\n-Autostarts the bar before combat starts.\n-Countdown with time offset.\n-Compatible with FFXIV Material UI.",
-        "InternalName": "MPTickBar",
+        "InternalName": "MPTickBarDT",
         "AssemblyVersion": "1.5.0.0",
         "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
         "ApplicableVersion": "any",
@@ -38,13 +38,13 @@
         ],
         "DalamudApiLevel": 10,
         "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/HaySome22/xivplugins/raw/main/plugins/MPTickBar/latest.zip",
+        "DownloadLinkInstall": "https://github.com/HaySome22/xivplugins/raw/main/plugins/MPTickBarDT/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "IconUrl": "https://raw.githubusercontent.com/HaySome22/xivplugins/main/plugins/MPTickBar/images/icon.png",
-        "DownloadLinkTesting": "https://github.com/HaySome22/xivplugins/raw/main/plugins/MPTickBar/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/HaySome22/xivplugins/raw/main/plugins/MPTickBar/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/HaySome22/xivplugins/main/plugins/MPTickBarDT/images/icon.png",
+        "DownloadLinkTesting": "https://github.com/HaySome22/xivplugins/raw/main/plugins/MPTickBarDT/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/HaySome22/xivplugins/raw/main/plugins/MPTickBarDT/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1725171139"
+        "LastUpdate": "1725172600"
     }
 ]
