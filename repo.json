@@ -1,25 +1,5 @@
 [
     {
-        "Author": "Nitian",
-        "Name": "NTweaks",
-        "Punchline": "NTweaks",
-        "Description": "NTweaks",
-        "InternalName": "NTweaks",
-        "AssemblyVersion": "0.0.0.5",
-        "ApplicableVersion": "any",
-        "Tags": [],
-        "DalamudApiLevel": 10,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/HaySome22/xivplugins/raw/main/plugins/NTweaks/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "IconUrl": "https://raw.githubusercontent.com/HaySome22/xivplugins/main/plugins/NTweaks/images/icon.png",
-        "DownloadLinkTesting": "https://github.com/HaySome22/xivplugins/raw/main/plugins/NTweaks/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/HaySome22/xivplugins/raw/main/plugins/NTweaks/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1725901581"
-    },
-    {
         "Author": "Marconsou",
         "Name": "MP Tick Bar DT",
         "Punchline": "Visually tracks MP regeneration ticks (Black Mage only).",
@@ -45,6 +25,6 @@
         "DownloadLinkTesting": "https://github.com/HaySome22/xivplugins/raw/main/plugins/MPTickBarDT/latest.zip",
         "DownloadLinkUpdate": "https://github.com/HaySome22/xivplugins/raw/main/plugins/MPTickBarDT/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1725901581"
+        "LastUpdate": "1725902164"
     }
 ]
