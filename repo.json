@@ -18,13 +18,13 @@
         ],
         "DalamudApiLevel": 10,
         "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/HaySome22/xivplugins/raw/main/plugins/MPTickBarDT/latest.zip",
+        "DownloadLinkInstall": "https://github.com/HaySome22/xivplugins-general/raw/main/plugins/MPTickBarDT/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "IconUrl": "https://raw.githubusercontent.com/HaySome22/xivplugins/main/plugins/MPTickBarDT/images/icon.png",
-        "DownloadLinkTesting": "https://github.com/HaySome22/xivplugins/raw/main/plugins/MPTickBarDT/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/HaySome22/xivplugins/raw/main/plugins/MPTickBarDT/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/HaySome22/xivplugins-general/main/plugins/MPTickBarDT/images/icon.png",
+        "DownloadLinkTesting": "https://github.com/HaySome22/xivplugins-general/raw/main/plugins/MPTickBarDT/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/HaySome22/xivplugins-general/raw/main/plugins/MPTickBarDT/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1725902164"
+        "LastUpdate": "1725924446"
     }
 ]
