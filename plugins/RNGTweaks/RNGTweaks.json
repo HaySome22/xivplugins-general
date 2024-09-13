@@ -1,0 +1,16 @@
+{
+  "Author": "Nitian",
+  "Name": "RNGTweaks",
+  "InternalName": "RNGTweaks",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "RNGTweaks",
+  "ApplicableVersion": "any",
+  "Tags": [],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "RNGTweaks",
+  "AcceptsFeedback": true
+}
